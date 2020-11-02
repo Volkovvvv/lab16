@@ -1,0 +1,55 @@
+body{
+    background-image: url(3-3.jpg);
+    width: 100%;
+    color:rgb(160, 156, 157);
+    scroll-behavior: smooth;
+}
+html{  scroll-behavior: smooth;}
+.one{
+    text-align: center;
+    font-size:150px;
+    color:rgb(97, 66, 74);
+    font-family: 'Dancing Script', cursive;
+}
+.animate__animated.animate__backInRight {
+    --animate-duration: 3s;
+  }
+  .animate__animated.animate__bounceInUp {
+    --animate-duration: 3s;
+  }
+  .two{
+    text-align: center;
+    font-size:80px;
+    color:pink;
+    font-family: 'Dancing Script', cursive;
+    color:rgb(97, 66, 74);
+  }
+  h1{
+      margin-bottom: 20px;
+      margin-top: 20px;
+      text-align: center;
+      border:3px solid #fff;
+      color:rgb(160, 156, 157);
+  }
+ 
+  .arrow{
+      width: 50px;
+      height: 50px;
+      text-align: center;
+        
+  }
+  a{
+      display:block;
+      margin-top: 50px;
+      text-align: center;
+      margin-bottom: 100px;
+  }
+  .section{
+      padding-top: 200px;
+  }
+  .karina{
+      width: 400px;
+      height: 600px;
+      border:5px solid #fff;
+      
+  }
